@@ -13,6 +13,7 @@ function login(){
      }
     else {
         alert("Dados enviados com sucesso , aguarde o retorno em até 48H!")
+        location.href = ''
     }
 
 }
